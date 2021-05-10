@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinity", "Infinity.csproj", "{270BEBFD-8D51-449E-9E84-82DDC8570489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270BEBFD-8D51-449E-9E84-82DDC8570489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270BEBFD-8D51-449E-9E84-82DDC8570489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270BEBFD-8D51-449E-9E84-82DDC8570489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270BEBFD-8D51-449E-9E84-82DDC8570489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D78F527-DB32-4FEA-8BC0-BE4D02434DED}
+	EndGlobalSection
+EndGlobal
